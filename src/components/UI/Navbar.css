@@ -1,0 +1,13 @@
+.bg-body-tertiary a {
+  text-decoration: none;
+  margin-right: 1rem;
+  color: black;
+}
+
+.bg-body-tertiary a:hover {
+  color: green;
+}
+
+.bg-body-tertiary a:active {
+  color: green;
+}
